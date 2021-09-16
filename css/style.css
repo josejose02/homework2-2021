@@ -6,7 +6,7 @@ body {
 main > h1 {
     font-size: 64px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: "Times New Roman", sans-serif;
     padding: 10px;
 }
 
@@ -50,7 +50,7 @@ div {
 
 #yellow > h2, #yellow > p {
     color: #000000 !important;
-    text-shadow: #c7e2c7;
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green {
